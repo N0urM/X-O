@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1549197863 source:e:\x- o game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+
+1549197863 source:e:\projects\x- o game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+
